@@ -1,6 +1,5 @@
 export default function Home() {
-  // Replace with your actual file name inside the public folder
-  const pdfUrl = "/your-file.pdf"; 
+  const pdfUrl = "/Amazon.pdf"; 
 
   return (
     <div style={{ width: "100vw", height: "100vh", margin: 0, padding: 0, overflow: "hidden" }}>
